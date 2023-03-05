@@ -5,3 +5,5 @@ Here I share and store my LeetCode journey!
 - 2/3/23 - Atlassian interview!
 - 3/3/23 - Elements of Programming Interview (5.4 advance_by_offset)
 - 4/3/23 - Elements of Programming Interview (5.5 delete_duplicates)
+- 5/3/23 - Elements of Programming Interview (6.3 ss_decode_col_id)
+- 5/3/23 - Elements of Programming Interview (5.8 alternating_arrays)
