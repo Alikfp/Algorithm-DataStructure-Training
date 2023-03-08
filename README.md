@@ -8,3 +8,5 @@ Here I share and store my LeetCode journey!
 - 5/3/23 - Elements of Programming Interview (6.3 ss_decode_col_id)
 - 5/3/23 - Elements of Programming Interview (5.8 alternating_arrays)
 - 6/3/23 - Elements of Programming Interview (11.4 square_root)
+- 7/3/23 - Elements of Programming Interview (13.4 remove_duplicates)
+- 8/3/23 - Elements of Programming Interview (5.9 generate_primes)
