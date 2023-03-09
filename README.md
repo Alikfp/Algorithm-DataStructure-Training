@@ -10,3 +10,4 @@ Here I share and store my LeetCode journey!
 - 6/3/23 - Elements of Programming Interview (11.4 square_root)
 - 7/3/23 - Elements of Programming Interview (13.4 remove_duplicates)
 - 8/3/23 - Elements of Programming Interview (5.9 generate_primes)
+- 9/3/23 - Elements of Programming Interview (6.7 look_and_say)
