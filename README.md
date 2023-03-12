@@ -13,3 +13,4 @@ Here I share and store my LeetCode journey!
 - 9/3/23 - Elements of Programming Interview (6.7 look_and_say)
 - 10/3/23 - Elements of Programming Interview (7.1 merge_two_sorted_lists) - UNDONE
 - 11/3/23 - Elements of Programming Interview (8.3 is_well_formed)
+- 12/3/23 - Elements of Programming Interview (11.2 search_entry_equal_to_its_index)
