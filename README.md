@@ -16,3 +16,4 @@ Here I share and store my LeetCode journey!
 - 12/3/23 - Elements of Programming Interview (11.2 search_entry_equal_to_its_index)
 - 13/3/23 - Elements of Programming Interview (12.2 is_letter_constructible_from_magazine)
 - 14/3/23 - Elements of Programming Interview (13.1 intersect_two_sorted_arrays)
+- 15/3/23 - Elements of Programming Interview (16.1 num_combinations_for_final_score) - UNDONE
