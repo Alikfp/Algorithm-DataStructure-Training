@@ -21,4 +21,5 @@ Here I share and store my LeetCode journey!
 - 17/3/23 - Elements of Programming Interview (16.1 num_combinations_for_final_score)
 - 18/3/23 - Elements of Programming Interview (9.10 inorder_traversal)
 - 19/3/23 - Elements of Programming Interview (9.1 is_balanced_binary_tree)
-- 20/3/23 - LC (112. Path Sum)
+- 20/3/23 - LC (112. Path Sum) - UNDONE
+- 21/3/23 - LC (112. Path Sum)
