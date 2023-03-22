@@ -23,3 +23,4 @@ Here I share and store my LeetCode journey!
 - 19/3/23 - Elements of Programming Interview (9.1 is_balanced_binary_tree)
 - 20/3/23 - LC (112. Path Sum) - UNDONE
 - 21/3/23 - LC (112. Path Sum)
+- 22/3/23 - Elements of Programming Interview (9.3 lowest_common_ancestor)
