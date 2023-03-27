@@ -28,3 +28,4 @@ Here I share and store my LeetCode journey!
 - 24/3/23 - LC (53. Maximum Subarray) - 11:00
 - 25/3/23 - LC (57. Insert Interval)
 - 26/3/23 - LC (542. 01 Matrix) ***
+- 27/3/23 - LC (973. K Closest Points to Origin) - UNDONE
