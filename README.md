@@ -29,3 +29,4 @@ Here I share and store my LeetCode journey!
 - 25/3/23 - LC (57. Insert Interval)
 - 26/3/23 - LC (542. 01 Matrix) ***
 - 27/3/23 - LC (973. K Closest Points to Origin) - UNDONE
+- 28/3/23 - LC (973. K Closest Points to Origin)
