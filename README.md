@@ -30,3 +30,5 @@ Here I share and store my LeetCode journey!
 - 26/3/23 - LC (542. 01 Matrix) ***
 - 27/3/23 - LC (973. K Closest Points to Origin) - UNDONE
 - 28/3/23 - LC (973. K Closest Points to Origin)
+- 29/3/23 - 1. AirWallex interview!
+            2. LC (15. 3Sum)
