@@ -33,3 +33,4 @@ Here I share and store my LeetCode journey!
 - 29/3/23 - 1. AirWallex interview!
             2. LC (15. 3Sum)
 - 30/3/23 - FIT3155 Assignment
+- 31/3/23 - LC (102. Binary Tree Level Order Traversal)
