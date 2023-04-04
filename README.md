@@ -37,3 +37,4 @@ Here I share and store my LeetCode journey!
 - 1/4/23 - LC (133. Clone Graph) - UNDONE
 - 2/4/23 - LC (133. Clone Graph)
 - 3/4/23 - LC (150. Evaluate Reverse Polish Notation) - 17:00
+- 4/4/23 - LC (110. Balanced Binary Tree)
