@@ -42,4 +42,4 @@ Here I share and store my LeetCode journey!
 - 6/4/23 - LC (322. Coin Change) - 15:30
 - 7/4/23 - LC (98. Validate Binary Search Tree) - UNDONE
 - 8/4/23 - LC (98. Validate Binary Search Tree)
-- 8/4/23 - LC (98. Validate Binary Search Tree)
+- 9/4/23 - LC (200. Number of Islands)
