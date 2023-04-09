@@ -40,4 +40,6 @@ Here I share and store my LeetCode journey!
 - 4/4/23 - LC (110. Balanced Binary Tree)
 - 5/4/23 - LC (207. Course Schedule)
 - 6/4/23 - LC (322. Coin Change) - 15:30
-- 7/4/23 - LC (98. Validate Binary Search Tree)
+- 7/4/23 - LC (98. Validate Binary Search Tree) - UNDONE
+- 8/4/23 - LC (98. Validate Binary Search Tree)
+- 8/4/23 - LC (98. Validate Binary Search Tree)
