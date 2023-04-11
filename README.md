@@ -45,3 +45,4 @@ Here I share and store my LeetCode journey!
 - 9/4/23 - LC (200. Number of Islands)
 - 10/4/23 - LC (238. Product of Array Except Self) - UNDONE
 - 11/4/23 - LC (238. Product of Array Except Self)
+- 11/4/23 - LC (994. Rotting Oranges)
