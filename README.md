@@ -46,3 +46,4 @@ Here I share and store my LeetCode journey!
 - 10/4/23 - LC (238. Product of Array Except Self) - UNDONE
 - 11/4/23 - LC (238. Product of Array Except Self)
 - 11/4/23 - LC (994. Rotting Oranges) - 31:00 (REVISE LATER)
+- 12/4/23 - LC (33. Search in Rotated Sorted Array) - UNDONE & OVERTIME
