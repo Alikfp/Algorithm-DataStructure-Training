@@ -52,3 +52,4 @@ Here I share and store my LeetCode journey!
 - 15/4/23 - LC (39. Combination Sum) - UNDONE
 - 16/4/23 - LC (39. Combination Sum) - UNDONE
 - 17/4/23 - LC (39. Combination Sum)
+- 17/4/23 - LC (46. Permutation) - 11:00
