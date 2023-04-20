@@ -55,3 +55,4 @@ Here I share and store my LeetCode journey!
 - 17/4/23 - LC (46. Permutation) - 11:00
 - 18/4/23 - LC (56. Merge intervals) - 12:30
 - 19/4/23 - LC (62. Unique Paths) - 15:00
+- 20/4/23 - LC (5. Longest Palindromic Substring) - 21:00 - UNDONE
