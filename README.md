@@ -59,3 +59,4 @@ Here I share and store my LeetCode journey!
 - 21/4/23 - LC (5. Longest Palindromic Substring)
 - 22/4/23 - LC (130. Word Break)
 - 23/4/23 - LC (236. Lowest Common Ancestor of a Binary Tree)
+- 24/4/23 - LC (416. Partition Equal Subset Sum)
