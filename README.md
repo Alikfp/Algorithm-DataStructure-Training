@@ -67,3 +67,4 @@ Here I share and store my LeetCode journey!
 - 28/4/23 - LC (199. Binary Tree Right Side View) - UNDONE
 - 29/4/23 - LC (199. Binary Tree Right Side View)
 - 30/4/23 - LC (54. Spiral Matrix) - 30:00
+- 1/5/23 - LC (230. Kth Smallest Element in a BST) - UNDONE
