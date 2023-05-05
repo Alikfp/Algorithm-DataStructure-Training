@@ -71,3 +71,4 @@ Here I share and store my LeetCode journey!
 - 2/5/23 - LC (230. Kth Smallest Element in a BST) - UNDONE
 - 3/5/23 - LC (230. Kth Smallest Element in a BST)
 - 4/5/23 - LC (105. Construct Binary Tree from Preorder and Inorder Traversal) - UNDONE
+- 5/5/23 - LC (24. Swap Nodes in Pairs) - UNDONE
