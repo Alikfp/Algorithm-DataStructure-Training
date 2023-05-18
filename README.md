@@ -79,3 +79,4 @@ Here I share and store my LeetCode journey!
 - 10/5/23 - LC (77. Combinations) - 7:00
 - 11/5/23 - LC (64. Minimum Path Sum) - 20:00
 - 17/5/23 - LC (55. Jump Game) - 10:00
+- 18/5/23 - LC (45. Jump Game II) - 15:00
