@@ -81,3 +81,4 @@ Here I share and store my LeetCode journey!
 - 17/5/23 - LC (55. Jump Game) - 10:00
 - 18/5/23 - LC (45. Jump Game II) - 15:00
 - 19/5/23 - LC (76. Minimum Window Substring)
+- 20/5/23 - LC (76. Minimum Window Substring) - 35:00 / Inefficient 
