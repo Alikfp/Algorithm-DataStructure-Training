@@ -86,3 +86,4 @@ Here I share and store my LeetCode journey!
 - 22/5/23 - LC (438. Find All Anagrams in a String) - 15:00
 - 23/5/23 - LC (11. Container With Most Water) - Overtime **
 - 23/5/23 - LC (76. Minimum Window Substring) - optimised
+- 24/5/23 - LC (1492. The kth Factor of n) - 35:00
