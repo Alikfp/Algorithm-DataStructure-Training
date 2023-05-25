@@ -87,3 +87,5 @@ Here I share and store my LeetCode journey!
 - 23/5/23 - LC (11. Container With Most Water) - Overtime **
 - 23/5/23 - LC (76. Minimum Window Substring) - optimised
 - 24/5/23 - LC (1492. The kth Factor of n) - 35:00
+- 25/5/23 - LC (2405. Optimal Partition of String) - 8:00
+
