@@ -92,3 +92,5 @@ Here I share and store my LeetCode journey!
 - 26/5/23 - LC (1004. Max Consecutive Ones III) - UNDONE
 - 27/5/23 - LC (739. Daily Temperatures) ** 
 - 28/5/23 - LinearProgramming & simplified RSA 
+- 29/5/23 - LC (1679. Max Number of K-Sum Pairs) - 5:00 
+- 29/5/23 - LC (131. Palindrome Partitioning) - 21:00 
