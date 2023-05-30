@@ -94,3 +94,5 @@ Here I share and store my LeetCode journey!
 - 28/5/23 - LinearProgramming & simplified RSA 
 - 29/5/23 - LC (1679. Max Number of K-Sum Pairs) - 5:00 
 - 29/5/23 - LC (131. Palindrome Partitioning) - 21:00 
+- 30/5/23 - LC (75. Word Search) - 35:00  **
+=> More Backtracking practice needed
