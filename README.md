@@ -98,4 +98,6 @@ Here I share and store my LeetCode journey!
 => More Backtracking practice needed
 - 31/5/23 - LC (216. Combination Sum III) - 11:00 - Backtracking
 - 1/6/23 - LC (34. Find First and Last Position of Element in Sorted Array) - 30:00 - BinarySearch **
-- 2/6/23 - LC (34. Find First and Last Position of Element in Sorted Array) - ??:?? - BinarySearch **
+- 2/6/23 - LC (34. Find First and Last Position of Element in Sorted Array) - BinarySearch **
+- 2/6/23 - LC (35. Search Insert Position) - BinarySearch 
+
