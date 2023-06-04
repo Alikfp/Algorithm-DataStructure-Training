@@ -101,5 +101,6 @@ Here I share and store my LeetCode journey!
 - 2/6/23 - LC (34. Find First and Last Position of Element in Sorted Array) - BinarySearch **
 - 2/6/23 - LC (35. Search Insert Position) - BinarySearch 
 - 3/6/23 - LC (153. Find Minimum in Rotated Sorted Array) - 10:00 - BinarySearch 
+- 4/6/23 - LC (74. Search a 2D Matrix) - 28:30 - BinarySearch **
 
 
