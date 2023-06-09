@@ -107,7 +107,8 @@ Here I share and store my LeetCode journey!
 - 7/6/23 - LC (198. House Robber) - 4:30 - DP
 - 8/6/23 - LC (279. Perfect Squares) - 20:00 - DP
 - 9/6/23 - LC (88. Merge Sorted Array) - 25:00 - InPlace - **
-- 9/6/23 - LC (27. Remove Element) - 13:00 - InPlace
+- 9/6/23 - LC (27. Remove Element) - 13:00 - InPlace - *
+- 9/6/23 - LC (26. Remove Duplicates from Sorted Array) - 6:00 - InPlace
 - 9/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
 
 
