@@ -109,8 +109,10 @@ Here I share and store my LeetCode journey!
 - 9/6/23 - LC (88. Merge Sorted Array) - 25:00 - InPlace - **
 - 9/6/23 - LC (27. Remove Element) - 13:00 - InPlace - *
 - 9/6/23 - LC (26. Remove Duplicates from Sorted Array) - 6:00 - InPlace
-- 9/6/23 - LC (80. Remove Duplicates from Sorted Array II) - 6:00 - InPlace
-- 9/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
+- 9/6/23 - LC (80. Remove Duplicates from Sorted Array II) - 9:00 - InPlace
+- 10/6/23 - LC (274. H-Index) - 7:00 - InPlace
+- 10/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
+- 11/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
 
 
 
