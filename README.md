@@ -113,8 +113,10 @@ Here I share and store my LeetCode journey!
 - 10/6/23 - LC (274. H-Index) - 7:00 - InPlace
 - 10/6/23 - LC (134. Gas Station) - LookedUp/efficiency problem - Array/network - ** 
 - 11/6/23 - LC (167. Two Sum II - Input Array Is Sorted) - 12:00 - 2Pointers *
-- 10/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
-- 11/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
+- 12/6/23 - LC (169. Majority Element) - 12:00 - Array
+- 13/6/23 - LC (169. Majority Element) - OPTIMAL UNDONE - Array
+- 14/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
+- 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
 
 
 
