@@ -114,7 +114,8 @@ Here I share and store my LeetCode journey!
 - 10/6/23 - LC (134. Gas Station) - LookedUp/efficiency problem - Array/network - ** 
 - 11/6/23 - LC (167. Two Sum II - Input Array Is Sorted) - 12:00 - 2Pointers *
 - 12/6/23 - LC (169. Majority Element) - 12:00 - Array
-- 14. Longest Common Prefix - UNDONE
+- 13/6/23 - LC (14. Longest Common Prefix) - UNDONE - Array
+- 14/6/23 - LC (14. Longest Common Prefix) - 6:00 - Array
 - 13/6/23 - LC (169. Majority Element) - OPTIMAL UNDONE - Array
 - 14/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
