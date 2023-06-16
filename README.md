@@ -117,6 +117,8 @@ Here I share and store my LeetCode journey!
 - 13/6/23 - LC (14. Longest Common Prefix) - UNDONE - Array
 - 14/6/23 - LC (14. Longest Common Prefix) - 6:00 - Array
 - 15/6/23 - LC (141. Linked List Cycle) - 10:00 - LinkedList *
+- 16/6/23 - LC (209. Minimum Size Subarray Sum) - 12:00 - SlidingWindow
+- 16/6/23 - LC (21. Merge Two Sorted Lists) - LinkedLists
 
 - 13/6/23 - LC (169. Majority Element) - OPTIMAL UNDONE - Array
 - 14/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
