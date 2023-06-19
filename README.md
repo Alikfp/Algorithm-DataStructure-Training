@@ -122,8 +122,9 @@ Here I share and store my LeetCode journey!
 - 17/6/23 - LC (290. Word Pattern) - 14:00 - HashMap
 - 17/6/23 - LC (169. Majority Element) - Optimised - Array *
 - 18/6/23 - LC (103. Binary Tree Zigzag Level Order Traversal) - 30:00 - BFS
+- 19/6/23 - LC (300. Longest Increasing Subsequence) - Optimised - DP ***
+- 19/6/23 - LC (646. Maximum Length of Pair Chain) - Optimised - Greedy **
 
-- 14/6/23 - LC (300. Longest Increasing Subsequence) - UNDONE - DP ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
 
 
