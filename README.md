@@ -127,6 +127,7 @@ Here I share and store my LeetCode journey!
 - 19/6/23 - LC (162. Find Peak Element) - LookedUp - Binary Search **
 - 19/6/23 - LC (36. Valid Sudoku) - LookedUp - Hashmap
 - 19/6/23 - LC (530. Minimum Absolute Difference in BST) - 25:00 - BST
+- 19/6/23 - LC (637. Average of Levels in Binary Tree) - 6:30 - BFS
 
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
