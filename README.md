@@ -133,6 +133,7 @@ Here I share and store my LeetCode journey!
 - 20/6/23 - LC (128. Longest Consecutive Sequence) - 35:00 - HashMap
 - 20/6/23 - LC (918. Maximum Sum Circular Subarray) - LookedUp - CircularArray **
 - 20/6/23 - LC (71. Simplify Path) - 12:30 - Stack
+- 20/6/23 - LC (121. Best Time to Buy and Sell Stock II) - 11:00 - Array
 
 
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
