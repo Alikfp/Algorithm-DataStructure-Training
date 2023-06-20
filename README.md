@@ -129,8 +129,11 @@ Here I share and store my LeetCode journey!
 - 19/6/23 - LC (530. Minimum Absolute Difference in BST) - 25:00 - BST
 - 19/6/23 - LC (637. Average of Levels in Binary Tree) - 6:30 - BFS
 - 20/6/23 - LC (2. Add Two Numbers) - 10:00 - LinkedList
-- 20/6/23 - LC (121. Best Time to Buy and Sell Stock) - 12:00 - Array
+- 20/6/23 - LC (121. Best Time to Buy and Sell Stock) - 14:00 - Array
 - 20/6/23 - LC (128. Longest Consecutive Sequence) - 35:00 - HashMap
+- 20/6/23 - LC (918. Maximum Sum Circular Subarray) - LookedUp - CircularArray **
+- 20/6/23 - LC (71. Simplify Path) - 12:30 - Stack
+
 
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
