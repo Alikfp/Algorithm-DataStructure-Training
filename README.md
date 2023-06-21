@@ -134,7 +134,9 @@ Here I share and store my LeetCode journey!
 - 20/6/23 - LC (918. Maximum Sum Circular Subarray) - LookedUp - CircularArray **
 - 20/6/23 - LC (71. Simplify Path) - 12:30 - Stack
 - 20/6/23 - LC (121. Best Time to Buy and Sell Stock II) - 11:00 - Array
-
+- 21/6/23 - LC (433. Minimum Genetic Mutation) - 45:00 - BFS
+- 21/6/23 - LC (452. Minimum Number of Arrows to Burst Balloons) - 30:00 - intervals
+- 21/6/23 - LC (215. Kth Largest Element in an Array) - 30:00 - intervals
 
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
