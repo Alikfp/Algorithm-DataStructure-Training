@@ -137,7 +137,11 @@ Here I share and store my LeetCode journey!
 - 21/6/23 - LC (433. Minimum Genetic Mutation) - 45:00 - BFS
 - 21/6/23 - LC (452. Minimum Number of Arrows to Burst Balloons) - 30:00 - intervals
 - 21/6/23 - LC (215. Kth Largest Element in an Array) - 30:00 - intervals
+- 22/6/23 - LC (108. Convert Sorted Array to Binary Search Tree) - 20:00 - BST
+- 22/6/23 - LC (19. Remove Nth Node From End of List) - 20:00 - LinkedList **
 
+
+909. Snakes and Ladders
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
