@@ -139,6 +139,7 @@ Here I share and store my LeetCode journey!
 - 21/6/23 - LC (215. Kth Largest Element in an Array) - 30:00 - intervals
 - 22/6/23 - LC (108. Convert Sorted Array to Binary Search Tree) - 20:00 - BST
 - 22/6/23 - LC (19. Remove Nth Node From End of List) - 20:00 - LinkedList **
+- 23/6/23 - LC (226. Invert Binary Tree) - 3:00 - BinaryTree
 
 
 909. Snakes and Ladders
