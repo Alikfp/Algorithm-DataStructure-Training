@@ -140,7 +140,7 @@ Here I share and store my LeetCode journey!
 - 22/6/23 - LC (108. Convert Sorted Array to Binary Search Tree) - 20:00 - BST
 - 22/6/23 - LC (19. Remove Nth Node From End of List) - 20:00 - LinkedList **
 - 23/6/23 - LC (226. Invert Binary Tree) - 3:00 - BinaryTree
-
+- 24/6/23 - Akuna Capital's tech interview
 
 909. Snakes and Ladders
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
