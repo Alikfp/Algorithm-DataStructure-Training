@@ -145,6 +145,8 @@ Here I share and store my LeetCode journey!
 - 26/6/23 - LC (210. Course Schedule II) - 35:00 - Graph ***
 - 26/6/23 - LC (120. Triangle) - 18:30 - DP
 - 26/6/23 - Canva Infrastructure engineering interview.
+- 27/6/23 - LC (130. Surrounded Regions) - LookedUp - Graph 
+
 909. Snakes and Ladders
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
