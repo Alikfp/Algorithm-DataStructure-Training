@@ -146,8 +146,8 @@ Here I share and store my LeetCode journey!
 - 26/6/23 - LC (120. Triangle) - 18:30 - DP
 - 26/6/23 - Canva Infrastructure engineering interview.
 - 27/6/23 - LC (130. Surrounded Regions) - LookedUp - Graph 
-
-909. Snakes and Ladders
+- 28/6/23 - LC (909. Snakes and Ladders) - LookedUp - Graph 
+- 29/6/23 - LC (222. Count Complete Tree Nodes) - LookedUp - BinaryTree **
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
