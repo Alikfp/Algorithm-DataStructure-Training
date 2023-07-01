@@ -151,6 +151,7 @@ Here I share and store my LeetCode journey!
 - 29/6/23 - LC (135. Candy) - 40:00 - Array
 - 29/6/23 - LC (560. Subarray Sum Equals K) - LookedUp - HashMap **
 - 30/6/23 - Canva Machine Learning engineering interview.
+- 1/7/23 - LC (283. Move Zeroes) - 5:00 - TwoPointers
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
