@@ -158,7 +158,8 @@ Here I share and store my LeetCode journey!
 - 5/7/23 - LC (205. Isomorphic Strings) - 4:00 - HashMap
 - 6/7/23 - LC (136. Single Number) - LookedUp - BitWise
 - 7/7/23 - LC (206. Reverse Linked List) - 10:00 - LinkedList
-- 543. Diameter of Binary Tree - UNDONE
+- 8/7/23 - LC (206. Reverse Linked List) - UNDONE - BinaryTree
+- 9/7/23 - LC (543. Diameter of Binary Tree) - 10:00 - BinaryTree
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
