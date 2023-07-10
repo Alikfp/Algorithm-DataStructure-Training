@@ -160,6 +160,8 @@ Here I share and store my LeetCode journey!
 - 7/7/23 - LC (206. Reverse Linked List) - 10:00 - LinkedList
 - 8/7/23 - LC (206. Reverse Linked List) - UNDONE - BinaryTree
 - 9/7/23 - LC (543. Diameter of Binary Tree) - 10:00 - BinaryTree
+- 10/7/23 - LC (118. Pascal's Triangle) - 10:00 - DP
+
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
