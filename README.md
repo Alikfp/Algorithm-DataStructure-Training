@@ -164,7 +164,9 @@ Here I share and store my LeetCode journey!
 - 11/7/23 - LC (92. Reverse Linked List II) - UNDONE - LinkedList
 - 12/7/23 - LC (92. Reverse Linked List II) - LookedUp - LinkedList **
 - 13/7/23 - LC (125. Valid Palindrome)
-- 14/7/23 - LC (86. Partition List)- UNDONE
+- 14/7/23 - LC (86. Partition List) - UNDONE
+- 15/7/23 - LC (20. Valid Parentheses) - 4:00 - Stack
+- 16/7/23 - LC (86. Partition List) - UNDONE
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
