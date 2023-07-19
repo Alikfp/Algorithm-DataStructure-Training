@@ -169,7 +169,8 @@ Here I share and store my LeetCode journey!
 - 16/7/23 - ...
 - 17/7/23 - LC (86. Partition List) - 25:00 - LinkedList
 - 18/7/23 - LC (1143. Longest Common Subsequence) - UNDONE - DP
-
+- 19/7/23 - LC (1143. Longest Common Subsequence) - LookedUP - DP ***
+- 20/7/23 - LC (516. Longest Palindromic Subsequence) -  - DP
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
 - 15/6/23 - LC (189. Rotate Array) - UNDONE - Array ***
