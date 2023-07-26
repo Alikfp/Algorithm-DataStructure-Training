@@ -174,7 +174,8 @@ Here I share and store my LeetCode journey!
 - 21/7/23 - LC (516. Longest Palindromic Subsequence) - 5:00 - DP
 - 22/7/23 - LC (234. Palindrome Linked List) - UNDONE - DP 
 - 23/7/23 - SouthEast water interview
-- 24/7/23 - LC (234. Palindrome Linked List) - LookedList - DP 
+- 24/7/23 - LC (234. Palindrome Linked List) - LinkedList
+- 26/7/23 - LC (328. Odd Even Linked List) - 25:00 - LinkedList 
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
