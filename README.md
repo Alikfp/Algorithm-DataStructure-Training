@@ -176,7 +176,8 @@ Here I share and store my LeetCode journey!
 - 23/7/23 - SouthEast water interview
 - 24/7/23 - LC (234. Palindrome Linked List) - LinkedList
 - 26/7/23 - LC (328. Odd Even Linked List) - 25:00 - LinkedList
-- 643. Maximum Average Subarray I
+- 28/7/23 - LC (643. Maximum Average Subarray I) - ?? - Array
+- 30/7/23 - LC (643. Maximum Average Subarray I) - 25:00 - Array
 
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
