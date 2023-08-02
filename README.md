@@ -179,7 +179,7 @@ Here I share and store my LeetCode journey!
 - 28/7/23 - LC (643. Maximum Average Subarray I) - ?? - Array
 - 30/7/23 - LC (643. Maximum Average Subarray I) - 25:00 - Array
 - 1/8/23 - LC (1650. Lowest Common Ancestor of a Binary Tree III) - 10:00 - BinaryTree
-
+- 2/8/23 - LC (1151. Minimum Swaps to Group All 1's Together) - 15:00 - SlidingWindow
 
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
