@@ -183,6 +183,7 @@ Here I share and store my LeetCode journey!
 - 2/8/23 - LC (2268. Minimum Number of Keypresses) - 10:00 - Hashmap
 - 8/8/23 - LC (2323. Find Minimum Time to Finish All Jobs II) - 10:00 - Hashmap
 - 8/8/23 - LC (2422. Merge Operations to Turn Array Into a Palindrome) - 10:00 - TwoPointers
+- 8/8/23 - LC (2222. Number of Ways to Select Buildings) - 25:00 - DP **
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
