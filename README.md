@@ -185,7 +185,7 @@ Here I share and store my LeetCode journey!
 - 8/8/23 - LC (2422. Merge Operations to Turn Array Into a Palindrome) - 10:00 - TwoPointers
 - 8/8/23 - LC (2222. Number of Ways to Select Buildings) - 25:00 - DP **
 - 9/8/23 - LC (2461. Maximum Sum of Distinct Subarrays With Length K) - 25:00 - HashMap
-
+- 9/8/23 - LC (2486. Append Characters to String to Make Subsequence) - 15:00 - TwoPointers
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
