@@ -189,6 +189,7 @@ Here I share and store my LeetCode journey!
 - 9/8/23 - LC (2330. Valid Palindrome IV) - 5:00 - TwoPointers
 - 10/8/23 - LC (937. Reorder Data in Log Files) - 12:00 - Sort
 - 11/8/23 - LC (2340. Minimum Adjacent Swaps to Make a Valid Array) - 8:00
+- 12/8/23 - Xero Interview
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
