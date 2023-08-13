@@ -190,6 +190,7 @@ Here I share and store my LeetCode journey!
 - 10/8/23 - LC (937. Reorder Data in Log Files) - 12:00 - Sort
 - 11/8/23 - LC (2340. Minimum Adjacent Swaps to Make a Valid Array) - 8:00
 - 12/8/23 - Xero Interview
+- 13/8/23 - LC (767. Reorganise strings) - 15:00
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
