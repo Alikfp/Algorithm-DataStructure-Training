@@ -194,6 +194,7 @@ Here I share and store my LeetCode journey!
 - 13/8/23 - LC (1676. LCA) - LookedUp - ***
 - 13/8/23 - LC (714. Best Time to Buy and Sell Stock with Transaction Fee) - LookedUp - ***
 - 14/9/23 - AWS SE Interview
+- 15/9/23 Amazon leadership principles revision
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
