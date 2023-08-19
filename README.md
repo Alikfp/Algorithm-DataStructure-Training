@@ -198,6 +198,7 @@ Here I share and store my LeetCode journey!
 - 16/9/13 - 3 tier web app design on aws presentation
 - 17/9/13 - Architecture reliability solutions
 - 18/9/13 - Suggestions slides
+- finished architecture designs and suggestion scopes
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
