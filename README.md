@@ -199,6 +199,7 @@ Here I share and store my LeetCode journey!
 - 17/9/13 - Architecture reliability solutions
 - 18/9/13 - Suggestions slides
 - finished architecture designs and suggestion scopes
+- finalised loop interview's case study presentation
 516. Longest Palindromic Subsequence
 - 15/6/23 - LC (142. Trapping Rain Water) - UNDONE
 - 15/6/23 - LC (148. Sort List) - UNDONE - Divide and Conquer ***
