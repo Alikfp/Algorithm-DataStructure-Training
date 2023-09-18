@@ -193,11 +193,13 @@ Here I share and store my LeetCode journey!
 - 13/8/23 - LC (767. Reorganise strings) - 15:00
 - 13/8/23 - LC (1676. LCA) - LookedUp - ***
 - 13/8/23 - LC (714. Best Time to Buy and Sell Stock with Transaction Fee) - LookedUp - ***
-- 14/9/23 - AWS SE Interview
-- 15/9/23 - Amazon leadership principles revision
-- 16/9/13 - 3 tier web app design on aws presentation
-- 17/9/13 - Architecture reliability solutions
-- 18/9/13 - Suggestions slides
+- 14/8/23 - AWS SE Interview
+- 15/8/23 - Amazon leadership principles revision
+- 16/8/23 - 3 tier web app design on aws presentation
+- 17/8/23 - Architecture reliability solutions
+- 18/8/23 - Suggestions slides
+- 15/9/23 - Got an offer from AWS - intern solutions architect
+MADE IT!!
 - finished architecture designs and suggestion scopes
 - finalised loop interview's case study presentation
 - Listed all leadership principles and wrapped up the powerpoint
